@@ -90,7 +90,7 @@ Berikut hasil pengujian dan struktur project **User Management API**:
 ---
 
 ### Database di DBeaver
-![DBeaver Table](./assets/DBEAVER TABLE.png)
+![DBeaver Table](./assets/DBEAVER_TABLE.png)
 
 ---
 
@@ -102,34 +102,34 @@ Berikut hasil pengujian dan struktur project **User Management API**:
 ## Autentikasi
 
 ### Register User
-![POST Register](./assets/POST REGIST.png)
+![POST Register](./assets/POST_REGIST.png)
 
 ### Login User
-![POST Login](./assets/POST LOGIN.png)
+![POST Login](./assets/POST_LOGIN.png)
 
 ---
 
 ## Manajemen User
 
 ### Get All Users
-![GET Users](./assets/GET USERS.png)
+![GET Users](./assets/GET_USERS.png)
 
 ### Update User
-![PUT Update](./assets/PUT UPDATE.png)
+![PUT Update](./assets/PUT_UPDATE.png)
 
 ### Delete User
-![DELETE User](./assets/DELETE USER.png)
+![DELETE User](./assets/DELETE_USER.png)
 
 ### Get Updated Users (After Update)
-![GET Updated Users](./assets/GET UPDATED USERS.png)
+![GET Updated Users](./assets/GET_UPDATED_USERS.png)
 
 ### Get Users After Deleted
-![GET Users After Deleted](./assets/GET USERS AFTER DELETED.png)
+![GET Users After Deleted](./assets/GET_USERS_AFTER_DELETED.png)
 
 ---
 
 ## Upload Avatar ke Cloudinary
-![POST Upload Avatar](./assets/POST USER AVATAR.png)
+![POST Upload Avatar](./assets/POST_USER_AVATAR.png)
 
 ### Hasil Upload Avatar
 ![Uploaded Avatar](./assets/UPLOADED.png)
